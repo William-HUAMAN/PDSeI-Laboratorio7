@@ -1,2 +1,11 @@
-# PDSeI-Laboratorio7
-Desarrollo del Laboratorio7 del curso de Procesamiento Digital de Señales e Imágenes
+# LABORATORIO N°7
+## Curso:
+Procesamiento Digital de Señales e Imágenes
+## Semestre:
+2022-II
+## Sesión:
+Diseño de Filtros Digitales
+## Integrantes:
+- CABRERA GALLARDO, Carlos Gabriel
+- HUAMÁN HUAMÁN, William Fabián
+- ROCHA MONTOYA, Carlos Adrian
