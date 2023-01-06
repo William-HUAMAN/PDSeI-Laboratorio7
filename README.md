@@ -4,7 +4,7 @@ Procesamiento Digital de Señales e Imágenes
 ## Semestre:
 2022-II
 ## Sesión:
-Diseño de Filtros Digitales
+Procesamiento de color
 ## Integrantes:
 - CABRERA GALLARDO, Carlos Gabriel
 - HUAMÁN HUAMÁN, William Fabián
